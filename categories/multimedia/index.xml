@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multimedia on Apps MAC | Fisher</title>
+    <link>https://apps-drive.github.io/categories/multimedia/</link>
+    <description>Recent content in Multimedia on Apps MAC | Fisher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Oct 2019 14:46:10 +0600</lastBuildDate>
+    
+	<atom:link href="https://apps-drive.github.io/categories/multimedia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Toast Titanium</title>
+      <link>https://apps-drive.github.io/roxio-toast-titanium/</link>
+      <pubDate>Sat, 26 Oct 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://apps-drive.github.io/roxio-toast-titanium/</guid>
+      <description>The ultimate media toolkit; disc burning, video conversion and more.</description>
+    </item>
+    
+  </channel>
+</rss>
