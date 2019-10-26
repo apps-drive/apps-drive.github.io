@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Apps MAC | Fisher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Oct 2019 14:46:10 +0600</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2019 14:46:10 +0600</lastBuildDate>
     
 	<atom:link href="https://apps-drive.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Others</title>
+      <link>https://apps-drive.github.io/categories/others/</link>
+      <pubDate>Sat, 26 Oct 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://apps-drive.github.io/categories/others/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adobe</title>
@@ -35,15 +44,6 @@
       <pubDate>Fri, 25 Oct 2019 14:46:10 +0600</pubDate>
       
       <guid>https://apps-drive.github.io/categories/microsoft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Others</title>
-      <link>https://apps-drive.github.io/categories/others/</link>
-      <pubDate>Fri, 25 Oct 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://apps-drive.github.io/categories/others/</guid>
       <description></description>
     </item>
     
