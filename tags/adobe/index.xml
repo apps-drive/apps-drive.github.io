@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adobe on Apps MAC | Fisher</title>
+    <link>https://apps-drive.github.io/tags/adobe/</link>
+    <description>Recent content in Adobe on Apps MAC | Fisher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Oct 2019 14:46:10 +0600</lastBuildDate>
+    
+	<atom:link href="https://apps-drive.github.io/tags/adobe/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Photoshop CC</title>
+      <link>https://apps-drive.github.io/adobe-photoshop/</link>
+      <pubDate>Fri, 25 Oct 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://apps-drive.github.io/adobe-photoshop/</guid>
+      <description>Professional image editor.
+ Adobe Photoshop CC 3_3.6.72</description>
+    </item>
+    
+  </channel>
+</rss>

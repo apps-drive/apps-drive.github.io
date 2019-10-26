@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apps MAC | Fisher</title>
+    <link>https://apps-drive.github.io/</link>
+    <description>Recent content on Apps MAC | Fisher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Oct 2019 14:46:10 +0600</lastBuildDate>
+    
+	<atom:link href="https://apps-drive.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1Password</title>
+      <link>https://apps-drive.github.io/1password/</link>
+      <pubDate>Fri, 25 Oct 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://apps-drive.github.io/1password/</guid>
+      <description>Powerful password manager; integrates with Web browsers and more.</description>
+    </item>
+    
+    <item>
+      <title>Air mail</title>
+      <link>https://apps-drive.github.io/air-mail/</link>
+      <pubDate>Fri, 25 Oct 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://apps-drive.github.io/air-mail/</guid>
+      <description>Airmail is an mail client with fast performance and intuitive interaction.</description>
+    </item>
+    
+    <item>
+      <title>Final Cut Pro X</title>
+      <link>https://apps-drive.github.io/final-cut-pro/</link>
+      <pubDate>Fri, 25 Oct 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://apps-drive.github.io/final-cut-pro/</guid>
+      <description>Professional video editing solution.
+ Final Cut Pro X 3_3.</description>
+    </item>
+    
+    <item>
+      <title>Motion</title>
+      <link>https://apps-drive.github.io/apple-motion/</link>
+      <pubDate>Fri, 25 Oct 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://apps-drive.github.io/apple-motion/</guid>
+      <description>Create and customize Final Cut Pro titles, transitions, and effects.</description>
+    </item>
+    
+    <item>
+      <title>MWeb</title>
+      <link>https://apps-drive.github.io/mweb/</link>
+      <pubDate>Fri, 25 Oct 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://apps-drive.github.io/mweb/</guid>
+      <description>Pro markdown writing, note-taking, and static blog generation.
+ MWeb 3_3.</description>
+    </item>
+    
+    <item>
+      <title>NTFS for Mac</title>
+      <link>https://apps-drive.github.io/ntfs-for-mac/</link>
+      <pubDate>Fri, 25 Oct 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://apps-drive.github.io/ntfs-for-mac/</guid>
+      <description>Create and customize Final Cut Pro titles, transitions, and effects.</description>
+    </item>
+    
+    <item>
+      <title>Office 2019</title>
+      <link>https://apps-drive.github.io/microsoft-office/</link>
+      <pubDate>Fri, 25 Oct 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://apps-drive.github.io/microsoft-office/</guid>
+      <description>Popular productivity suite.
+ Office 2019 3_3.6.72</description>
+    </item>
+    
+    <item>
+      <title>Photoshop CC</title>
+      <link>https://apps-drive.github.io/adobe-photoshop/</link>
+      <pubDate>Fri, 25 Oct 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://apps-drive.github.io/adobe-photoshop/</guid>
+      <description>Professional image editor.
+ Adobe Photoshop CC 3_3.6.72</description>
+    </item>
+    
+  </channel>
+</rss>

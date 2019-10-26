@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on Apps MAC | Fisher</title>
+    <link>https://apps-drive.github.io/tags/security/</link>
+    <description>Recent content in Security on Apps MAC | Fisher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Oct 2019 14:46:10 +0600</lastBuildDate>
+    
+	<atom:link href="https://apps-drive.github.io/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1Password</title>
+      <link>https://apps-drive.github.io/1password/</link>
+      <pubDate>Fri, 25 Oct 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://apps-drive.github.io/1password/</guid>
+      <description>Powerful password manager; integrates with Web browsers and more.</description>
+    </item>
+    
+  </channel>
+</rss>
